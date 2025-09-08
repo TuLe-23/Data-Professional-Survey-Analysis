@@ -1,5 +1,7 @@
 # Data Professional Survey Analysis
 
+<img width="1187" height="666" alt="Image" src="https://github.com/user-attachments/assets/b377d300-fe45-496a-a123-f1fefdf4febf" />
+
 ## Project Background
 This project focuses on analyzing a survey of data professionals from LinkedIn, containing over 600 participants. The goal is to extract meaningful insights from those working in the data industry and identify important trends. Therefore, serving as a valuable resource for individuals considering a career in the data field.
 
