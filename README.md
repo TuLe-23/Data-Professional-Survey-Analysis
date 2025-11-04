@@ -37,8 +37,8 @@ The analysis is based on a dataset of 630 survey participants, providing insight
  
 
 ### Difficulty Entering the Data Field
-- Overall, 42.7% of those in the data field had an “Average” degree of difficulty breaking into the Data field.
-- 21.27% of those who took the survey had an “Easy” degree of difficulty entering the data field.
-- Approximately a quarter of the survey participants (24.76%) found it "Difficult" to become a data professional.
+- Overall, 42.7% of survey participants had an “Average” degree of difficulty breaking into the Data field.
+- 21.27% of those who took the survey had an “Easy” degree of difficulty entering the Data field.
+- Approximately a quarter of the survey participants (24.76%) found it "Difficult" to become a Data professional.
 
 
